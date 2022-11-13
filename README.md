@@ -1,6 +1,6 @@
 # Working-with-Arrays
 
-- Arrays are the most important topics in the JavaScript.There are the number of methods which are the inbuild functions are availabe
+- Arrays are the most important topics in the JavaScript.There are the number of methods which are the inbuild functions are available in JavaScript.
 
 - We cover all methods which are used while doing this project.
 
