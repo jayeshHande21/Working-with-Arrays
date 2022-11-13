@@ -10,7 +10,7 @@
 
 - examples : map() , flat() , join() , reverse()..
 
-- If you want to take look of a project, then here is a link : 
+- If you want to take look of a project, then here is a link : https://banklist-jh.netlify.app/
 
 - Some imp note: when you enterd into the project you have to put username and pin of account holder
 
