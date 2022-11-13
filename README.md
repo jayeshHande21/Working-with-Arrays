@@ -6,6 +6,8 @@
 
 - I explain all these methods with an proper examples.
 
+- To learn all these methods then go the script file which above the Readmd file or just click : https://github.com/jayeshHande21/Working-with-Arrays/blob/main/script.js
+
 - examples : map() , flat() , join() , reverse()..
 
 - If you want to take look of a project, then here is a link : 
