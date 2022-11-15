@@ -16,7 +16,7 @@
 
 - here is the list of username and pin :
 
-1) username: js ,  pin : 1111
+1) username: jh ,  pin : 1111
 2) username : km , pin : 2222
 3) username : aj , pin : 3333
 4) username : sd , pin : 4444
